@@ -1,0 +1,1 @@
+Download the code and save it as a .ino file in Arduino or simply check the simulation on tinkercad. Screenshot is attached for reference.
